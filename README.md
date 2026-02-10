@@ -63,4 +63,4 @@ Join our Support Server for a chat!
 
 
 
-<p align="center"> Built with 🍑 by kuisux </p>
+<p align="center"> Built by Joe Harper </p>
